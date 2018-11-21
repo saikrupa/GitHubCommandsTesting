@@ -9,4 +9,5 @@ public class SecondActivity extends Activity{
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
     }
+    private String test = "testing commit";
 }
